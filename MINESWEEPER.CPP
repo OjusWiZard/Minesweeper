@@ -6,10 +6,10 @@
 
 
 
-/*          	Use Arrow Keys to Move your Cursor.							*/
+/*		          	Use Arrow Keys to Move your Cursor.							*/
 /*				Press Z to declare your position a BOMB  ...				*/
 /*				Press X to declare your position a Number...				*/
-/*				Stop Reading and COMPILE IT !                               */
+
 
 
 
